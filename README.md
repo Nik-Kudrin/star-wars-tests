@@ -1,5 +1,5 @@
 ## Star Wars Test
-Examples of integration tests for Star Wars API https://swapi.dev/
+Examples of integration tests for Star Wars API https://swapi.dev/ (Interview task)
 
 Project is written using Java 11, TestNG
 
